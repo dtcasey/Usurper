@@ -1,0 +1,63 @@
+
+***
+Create a Callback that will load a Char and then execute some method with that char.
+****
+
+
+Create Server methods to run system in seperate class.
+    -Rebuild Server using Express?
+    -Good Metrics gathering for WS Calls?
+
+Establish Authentication w/ encrypted header values.
+    -how does RestAPI handle Authentication standards for this
+
+Create a Console Client in seperate class.
+
+Create a scale for combat difficulty...
+
+Create health potion inventory to be used in combat.
+
+Create Random Loot Drops from Battle
+
+Create Backpack to store Random Loot Drops
+
+Create way to auto upgrade character when loot drops.
+
+Use all base stats (Str, Int)
+
+Create Combat Skills
+    -Make player choose usage
+    -Automatically use skills when they are enabled
+    -Create some way to create a profile for when to use Skills and when to heal.
+
+Allow User to configure when Health Potions get used and when to rest.
+    - Remove auto heal after battle
+
+Create locations like Bar where you can brawl with other players
+    - Steal Items.
+
+Create inn to Rest in
+
+Create Body Guards
+
+Create ability to assassinate other sleeping players
+
+Create Healer Hut
+    -Pay to heal to full life.
+
+Create Backally
+    -Optionally get robbed
+    -Health Potion Location
+
+Create Beggers Wall
+    -Begging
+
+Castle
+    -Maze
+    -Throne Room Guards
+        -Bribery
+            -Create Mobs list with loyalty points and strength
+                -Cost based on Strength and Loyalty.
+
+Create Action Points and Timer for Actions.
+    - Something to be done all the time?
